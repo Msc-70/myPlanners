@@ -5,9 +5,16 @@
 
 ## 侧方位停车（倒序）
 
+![image](https://github.com/Msc-70/myPlanners/tree/master/images/trajectory_plot_case2.tif)
 
 
-https://user-images.githubusercontent.com/85840949/150943617-f949d10d-c1be-424f-9530-1a21a5c67eef.mp4
+
+
+
+https://github.com/Msc-70/myPlanners/tree/master/images/parallel_case1.mp4
+
+
+
 
 
 
