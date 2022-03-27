@@ -1,6 +1,6 @@
 # myPlanners
 
-## 展示几个硕士期间做的规划算法，环境为matlab，二次规划问题使用matlab自带求解函数quadprog，非线性规划问题部分使用到插件YALMIP和求解器[IPOPT](https://github.com/coin-or/Ipopt)
+## 展示几个硕士期间做的规划算法，环境为matlab，二次规划问题使用matlab自带求解函数quadprog，非线性规划问题部分使用到插件[YALMIP](https://github.com/yalmip/YALMIP)和求解器[IPOPT](https://github.com/coin-or/Ipopt)
 
 
 ## 侧方位停车（倒序）
