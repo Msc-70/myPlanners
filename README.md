@@ -5,13 +5,13 @@
 
 ## 侧方位停车（倒序）
 
-![image](https://github.com/Msc-70/myPlanners/tree/master/videos/trajectory_plot_case2.png)
+![image](https://github.com/Msc-70/myPlanners/raw/master/videos/trajectory_plot_case2.png)
 
 
 
 
 
-![image](https://github.com/Msc-70/myPlanners/tree/master/videos/parallel_case1_.gif)
+![image](https://github.com/Msc-70/myPlanners/raw/master/videos/parallel_case1_.gif)
 
 
 分为入库和从车位外到入库起始点两阶段分别进行轨迹规划，由于两阶段非线性规划问题的设置需要，停车的终点即车位内停靠点被设定为起点，而车位以外的特定位置被设定为终点
@@ -21,7 +21,7 @@
 
 ## 规则道路轨迹规划
 
-![image](https://github.com/Msc-70/myPlanners/tree/master/videos/demo_.gif)
+![image](https://github.com/Msc-70/myPlanners/raw/master/videos/demo_.gif)
 
 
 
